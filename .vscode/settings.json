@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/pranav/ros2_ws/install/usb_camera/lib/python3.10/site-packages",
+        "/home/pranav/ros2_ws/install/stem_detection_package/lib/python3.10/site-packages",
+        "/home/pranav/ros2_ws/install/camera_recv/lib/python3.10/site-packages",
+        "/home/pranav/ros2_ws/install/camera_reciever_package/lib/python3.10/site-packages",
+        "/home/pranav/ros2_ws/install/camera_raw/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/pranav/ros2_ws/install/usb_camera/lib/python3.10/site-packages",
+        "/home/pranav/ros2_ws/install/stem_detection_package/lib/python3.10/site-packages",
+        "/home/pranav/ros2_ws/install/camera_recv/lib/python3.10/site-packages",
+        "/home/pranav/ros2_ws/install/camera_reciever_package/lib/python3.10/site-packages",
+        "/home/pranav/ros2_ws/install/camera_raw/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
